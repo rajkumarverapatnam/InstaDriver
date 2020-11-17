@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/InstaDriver/static/css/main.b9bbdd8b.chunk.css",
+    "main.js": "/InstaDriver/static/js/main.2fceb76c.chunk.js",
+    "main.js.map": "/InstaDriver/static/js/main.2fceb76c.chunk.js.map",
+    "runtime-main.js": "/InstaDriver/static/js/runtime-main.f3cd7d00.js",
+    "runtime-main.js.map": "/InstaDriver/static/js/runtime-main.f3cd7d00.js.map",
+    "static/js/2.7f8609e2.chunk.js": "/InstaDriver/static/js/2.7f8609e2.chunk.js",
+    "static/js/2.7f8609e2.chunk.js.map": "/InstaDriver/static/js/2.7f8609e2.chunk.js.map",
+    "static/js/3.5be6124f.chunk.js": "/InstaDriver/static/js/3.5be6124f.chunk.js",
+    "static/js/3.5be6124f.chunk.js.map": "/InstaDriver/static/js/3.5be6124f.chunk.js.map",
+    "index.html": "/InstaDriver/index.html",
+    "static/css/main.b9bbdd8b.chunk.css.map": "/InstaDriver/static/css/main.b9bbdd8b.chunk.css.map",
+    "static/js/2.7f8609e2.chunk.js.LICENSE.txt": "/InstaDriver/static/js/2.7f8609e2.chunk.js.LICENSE.txt",
+    "static/media/fs.css": "/InstaDriver/static/media/imgsmall.6323a31a.png",
+    "static/media/aboutus.4f9c24af.svg": "/InstaDriver/static/media/aboutus.4f9c24af.svg",
+    "static/media/calldriver.0e491be0.svg": "/InstaDriver/static/media/calldriver.0e491be0.svg",
+    "static/media/drivers.cbf3564a.svg": "/InstaDriver/static/media/drivers.cbf3564a.svg",
+    "static/media/employees.5d785150.svg": "/InstaDriver/static/media/employees.5d785150.svg",
+    "static/media/filter.b7e6ff33.svg": "/InstaDriver/static/media/filter.b7e6ff33.svg",
+    "static/media/footerlogo.9666e894.svg": "/InstaDriver/static/media/footerlogo.9666e894.svg",
+    "static/media/hiredriver.bcc464e6.svg": "/InstaDriver/static/media/hiredriver.bcc464e6.svg",
+    "static/media/iconBars.93ead96a.svg": "/InstaDriver/static/media/iconBars.93ead96a.svg",
+    "static/media/logo.a65a06e7.svg": "/InstaDriver/static/media/logo.a65a06e7.svg",
+    "static/media/messageIcon.b2f762ee.svg": "/InstaDriver/static/media/messageIcon.b2f762ee.svg",
+    "static/media/searchdriver.fceaee06.svg": "/InstaDriver/static/media/searchdriver.fceaee06.svg",
+    "static/media/topadd.a9c9644d.svg": "/InstaDriver/static/media/topadd.a9c9644d.svg",
+    "static/media/verify.632f5c9b.svg": "/InstaDriver/static/media/verify.632f5c9b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3cd7d00.js",
+    "static/js/2.7f8609e2.chunk.js",
+    "static/css/main.b9bbdd8b.chunk.css",
+    "static/js/main.2fceb76c.chunk.js"
+  ]
+}
