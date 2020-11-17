@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/InstaDriver/static/css/main.b9bbdd8b.chunk.css",
+    "main.css": "/InstaDriver/static/css/main.5ce76c9a.chunk.css",
     "main.js": "/InstaDriver/static/js/main.2fceb76c.chunk.js",
     "main.js.map": "/InstaDriver/static/js/main.2fceb76c.chunk.js.map",
     "runtime-main.js": "/InstaDriver/static/js/runtime-main.f3cd7d00.js",
@@ -10,7 +10,7 @@
     "static/js/3.5be6124f.chunk.js": "/InstaDriver/static/js/3.5be6124f.chunk.js",
     "static/js/3.5be6124f.chunk.js.map": "/InstaDriver/static/js/3.5be6124f.chunk.js.map",
     "index.html": "/InstaDriver/index.html",
-    "static/css/main.b9bbdd8b.chunk.css.map": "/InstaDriver/static/css/main.b9bbdd8b.chunk.css.map",
+    "static/css/main.5ce76c9a.chunk.css.map": "/InstaDriver/static/css/main.5ce76c9a.chunk.css.map",
     "static/js/2.7f8609e2.chunk.js.LICENSE.txt": "/InstaDriver/static/js/2.7f8609e2.chunk.js.LICENSE.txt",
     "static/media/fs.css": "/InstaDriver/static/media/imgsmall.6323a31a.png",
     "static/media/aboutus.4f9c24af.svg": "/InstaDriver/static/media/aboutus.4f9c24af.svg",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.f3cd7d00.js",
     "static/js/2.7f8609e2.chunk.js",
-    "static/css/main.b9bbdd8b.chunk.css",
+    "static/css/main.5ce76c9a.chunk.css",
     "static/js/main.2fceb76c.chunk.js"
   ]
 }
