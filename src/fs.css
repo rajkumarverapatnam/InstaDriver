@@ -1,0 +1,269 @@
+#navHeight {
+  background-color: #fff;
+  height: 65px;
+  /* border-bottom: 1px solid black; */
+  margin: 0px;
+}
+#navBarUl .navBarLi {
+  border: 1px solid #000;
+  /* padding: 2px 29px; */
+  margin: 0px 11px;
+}
+
+#navBarUl .navBarLi:hover {
+  background-color: #000;
+  color: white;
+}
+
+#navBarUl .navBarLi a {
+  padding: 15px 43px;
+}
+
+#navBarUl .navBarLi a:hover {
+  color: #fff;
+  background-color: #000;
+  font-weight: 500;
+}
+
+#navBarUl li a {
+  color: #3b3b3b;
+  font-weight: 500;
+}
+
+.dropDownUl li a {
+  font-weight: 700;
+  font-size: 16px;
+  padding: 6px 25px;
+}
+
+.dropDownUl li a:hover {
+  background-color: #f8bd00;
+}
+
+.headerEmail {
+  background-color: #3b3b3b !important;
+  height: 30px;
+}
+
+.headerEmail a {
+  float: right;
+  color: #b0b0b0;
+  padding: 3px 100px 0px 0px;
+}
+.headerEmail a img {
+  padding: 0px 15px;
+}
+
+/* section a */
+
+.sectionA {
+  text-align: center;
+  padding: 40px 0px;
+  background-color: #fff !important;
+}
+
+.navPills .nav-pills li {
+  border: 1px solid #f8bd00;
+  margin: 3% 0% 2% 0%;
+}
+.navPills .nav-pills .navpillA {
+  border: 1px solid #f8bd00;
+  margin: 3% 0% 2% 41%;
+}
+
+.nav-pills > li.active > a {
+  background-color: #f8bd00 !important;
+}
+
+/* empDriver_center */
+
+.empDriver_center {
+  text-align: center;
+  padding: 50px 0px;
+}
+#driverBg {
+  background-color: #f8bd00;
+}
+#employeBg {
+  background-color: #fefcf5 !important;
+}
+
+#employeBg p {
+  margin: 0 0 0px;
+  padding: 0% 6%;
+  font-size: 16px;
+  font-family: inherit;
+}
+#driverBg p {
+  margin: 0 0 0px;
+  padding: 0% 6%;
+  color: #fff;
+  font-size: 16px;
+  font-family: inherit;
+}
+
+/* about */
+.about {
+  text-align: center;
+  background-image: url(./assets/imgsmall.png);
+  padding: 20px 0px;
+  color: white;
+}
+
+/* verifyDriver */
+
+.verifyDriver {
+  text-align: center;
+  padding: 70px 0px;
+  background-color: #fefcf5;
+}
+
+.verifyDriver h2 {
+  padding: 10px 0px;
+}
+
+#box1 {
+  box-sizing: border-box;
+  border: 1px solid #e3e3e1;
+  background-color: #f8bd00;
+  margin: 0px 10px;
+  padding: 25px 50px;
+  padding-bottom: 20px;
+  color: #fff;
+}
+#box2 {
+  box-sizing: border-box;
+  border: 1px solid #e3e3e1;
+  background-color: #3b3b3b;
+  margin: 0px 10px;
+  padding: 25px 50px;
+  padding-bottom: 20px;
+  color: #f8bd00;
+}
+.verifyDriver_boxes {
+  display: flex;
+  justify-content: center;
+}
+
+/* footer */
+
+footer {
+  background-image: url(./assets/footer.png);
+  text-align: center;
+  color: #fff;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+  height: auto;
+  padding-bottom: 40px;
+  padding-top: 50px;
+}
+.footerLogo {
+  text-align: center;
+}
+.footerSpacing {
+  padding-top: 60px;
+  color: #fff;
+  text-align: left;
+}
+.footerSpacing a {
+  color: #fff;
+}
+
+.footerSpacing ul {
+  list-style: none;
+  padding: 0px;
+}
+.footerSpacing ul li {
+  display: inline;
+  padding: 0px 0px 0px 10px;
+}
+
+/* loginForm */
+
+.loginForm {
+  background-image: url(./assets/BANNER.png);
+  color: #fff;
+  height: 471px;
+}
+.formBlock {
+  width: 350px;
+  /* border: 1px solid #fff; */
+  outline: 43px solid #00000082;
+  position: absolute;
+  left: 9%;
+  top: 22%;
+  background-color: #00000082;
+}
+.locationIcon {
+  position: absolute;
+  top: 41%;
+  left: 90%;
+  width: 10%;
+  height: 14%;
+  padding: 5px;
+  color: #8a8383;
+  background-color: #e9ecef;
+}
+.sel1 {
+  height: 50px;
+  margin: 10px 0px;
+}
+.filterSearch {
+  color: #000;
+}
+.input-group-text {
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: 5px;
+  margin-bottom: 0;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #495057;
+  text-align: center;
+  white-space: nowrap;
+  background-color: #e9ecef;
+  border: 1px solid #ced4da;
+}
+
+.textSectionFilter {
+  background: #d4edda;
+  padding: 25px;
+  font-size: 16px;
+  line-height: 26px;
+  margin: 20px 10px;
+  border-color: #c3e6cb;
+  border-radius: 5px;
+  color: #155724;
+}
+.btn-formFilter {
+  background-color: #fed136;
+  border-color: #fed136;
+  height: 50px;
+  color: #fff;
+  margin-top: 0px;
+  padding: 0px 32px;
+  font-size: 18px;
+}
+
+.filterSearchBtn {
+  padding: 11px 101px;
+  margin-left: 14px;
+  background-color: #f8bd00;
+  border-color: #f8bd00;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 21px;
+}
+.filterIcons {
+  padding: 0px;
+  margin-top: -2%;
+}
+.formBlock h3 {
+  padding: 0px 0px 10px 0px;
+  text-align: center;
+  margin-top: -5px;
+}
