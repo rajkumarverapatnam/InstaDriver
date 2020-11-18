@@ -34,7 +34,7 @@ class LoginForm extends Component {
                 <option>On-Demand Driver</option>
               </select>
 
-              <div>
+              <div className="input-group sel1">
                 <input
                   type="text"
                   className="form-control select sel1"
@@ -42,7 +42,8 @@ class LoginForm extends Component {
                   name="loc"
                   placeholder="Enter a location"
                 />
-                <span className="input-group-textss">
+                <span className="input-group-addon inpGrp">
+                  {/* <i className="glyphicon glyphicon-map-marker"></i> */}
                   <svg
                     className="locationIcon"
                     xmlns="http://www.w3.org/2000/svg"
@@ -68,15 +69,22 @@ class LoginForm extends Component {
                 <option>Search Verified Drivers</option>
               </select>
               <div className="filterSearch">
-                <button
-                  type="button"
-                  className="btn  btn-xs filterIcons"
-                  data-toggle="modal"
-                  data-target="#myModal"
-                >
-                  <img src={filter} alt="filter" />
-                </button>
-                <button className="filterSearchBtn">Search</button>
+                <div className="row">
+                  <div className="col-md-2 col-sm-2 col-xs-2">
+                    <button
+                      type="button"
+                      className="btn  btn-xs filterIcons"
+                      data-toggle="modal"
+                      data-target="#myModal"
+                    >
+                      <img src={filter} alt="filter" />
+                    </button>
+                  </div>
+                  <div className="col-md-10 col-sm-10 col-xs-10">
+                    <button className="filterSearchBtn">Search</button>
+                  </div>
+                </div>
+
                 <div className="modal fade" id="myModal" role="dialog">
                   <div className="modal-dialog">
                     <div className="modal-content">

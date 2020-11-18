@@ -14,7 +14,7 @@ let Footer = () => {
             <img src={footerLogo} alt="footerlogo" />
           </div>
 
-          <div className="col-md-3 col-sm-6 footerSpacing">
+          <div className="col-md-3 col-sm-4 footerSpacing">
             <h4>Useful links</h4>
             <a href="#">
               About InstaDriver <br />
@@ -26,7 +26,7 @@ let Footer = () => {
               Top Ad Feature (For Drivers) <br />
             </a>
           </div>
-          <div className="col-md-2 col-sm-6 footerSpacing">
+          <div className="col-md-2 col-sm-4 footerSpacing">
             <h4>Useful links</h4>
             <a href="#">
               Driver Sign In <br />
@@ -41,7 +41,7 @@ let Footer = () => {
               Employer Sign up <br />
             </a>
           </div>
-          <div className="col-md-2 col-sm-6 footerSpacing">
+          <div className="col-md-2 col-sm-4 footerSpacing">
             <h4>Useful links</h4>
             <a href="#">
               FAQs <br />

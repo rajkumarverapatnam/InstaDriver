@@ -16,10 +16,11 @@ class Header extends Component {
               <div className="navbar-header">
                 <button
                   type="button"
-                  className="navbar-toggle"
+                  className="navbar-toggle mobMenu"
                   data-toggle="collapse"
                   data-target="#myNavbar"
                 >
+                  <span className="mobMenuSpan"> MENU</span>
                   <img src={iconBars} alt="iconBars" />
                   {/* <span className="icon-bar"></span>
                   <span className="icon-bar"></span>
