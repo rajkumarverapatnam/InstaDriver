@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 import logo from "./../assets/logo.svg";
 import iconBars from "./../assets/iconBars.svg";
-import messageIcon from "./../assets/messageIcon.svg";
+// import messageIcon from "./../assets/messageIcon.svg";
 
 import "../fs.css";
 
@@ -11,7 +11,7 @@ class Header extends Component {
     return (
       <div className="container-fluid">
         <div className="row">
-          <nav className="navbar " id="navHeight">
+          <nav className="navbar navbar-fixed-top" id="navHeight">
             <div className="container">
               <div className="navbar-header">
                 <button
@@ -76,14 +76,14 @@ class Header extends Component {
               </div>
             </div>
           </nav>
-          <div className="headerEmail">
+          {/* <div className="headerEmail">
             <div>
               <a href="#">
                 <img src={messageIcon} alt="email" />
                 saysomething@instadriver.co
               </a>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     );

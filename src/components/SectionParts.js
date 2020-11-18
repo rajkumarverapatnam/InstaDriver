@@ -5,6 +5,7 @@ import oceanWave from "../assets/ocean-waves.png";
 import searchdriver from "../assets/searchdriver.svg";
 import calldriver from "../assets/calldriver.svg";
 import hiredriver from "../assets/hiredriver.svg";
+import messageIcon from "./../assets/messageIcon.svg";
 
 let SectionParts = () => {
   return (
@@ -17,7 +18,7 @@ let SectionParts = () => {
           <ul className="nav nav-pills">
             <li className="navpillA">
               <a data-toggle="pill" href="#home">
-                For Employees
+                For Employers
               </a>
             </li>
             <li className="active">
@@ -29,7 +30,7 @@ let SectionParts = () => {
 
           <div className="tab-content container">
             <div id="home" className="tab-pane fade in active">
-              <div className="col-md-4 col-sm-4">
+              <div className="col-md-4 col-sm-4 col-xs-12">
                 <img src={searchdriver} alt="search" />
                 <h4>Search Driver</h4>
                 <p>
@@ -39,7 +40,7 @@ let SectionParts = () => {
                   button.
                 </p>
               </div>
-              <div className="col-md-4 col-sm-4">
+              <div className="col-md-4 col-sm-4 col-xs-12">
                 <img src={calldriver} alt="search" />
                 <h4>Call Driver</h4>
                 <p>
@@ -49,7 +50,7 @@ let SectionParts = () => {
                   driver.
                 </p>
               </div>
-              <div className="col-md-4 col-sm-4">
+              <div className="col-md-4 col-sm-4 col-xs-12">
                 <img src={hiredriver} alt="search" />
                 <h4>Hire Driver</h4>
                 <p>
@@ -61,7 +62,7 @@ let SectionParts = () => {
               </div>
             </div>
             <div id="menu1" className="tab-pane fade">
-              <div className="col-md-4 col-sm-4">
+              <div className="col-md-4 col-sm-4 col-xs-12">
                 <img src={searchdriver} alt="search" />
                 <h4>Post Profile</h4>
                 <p>
@@ -71,7 +72,7 @@ let SectionParts = () => {
                   you.
                 </p>
               </div>
-              <div className="col-md-4 col-sm-4">
+              <div className="col-md-4 col-sm-4 col-xs-12">
                 <img src={calldriver} alt="search" />
                 <h4>Employers find you and call you</h4>
                 <p>
@@ -81,7 +82,7 @@ let SectionParts = () => {
                   driving job.
                 </p>
               </div>
-              <div className="col-md-4 col-sm-4">
+              <div className="col-md-4 col-sm-4 col-xs-12">
                 <img src={hiredriver} alt="search" />
                 <h4>And you get hired</h4>
                 <p>
