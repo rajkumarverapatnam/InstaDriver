@@ -279,11 +279,14 @@ footer {
 @media screen and (max-width: 325px) and (min-width: 275px) {
   .formBlock {
     width: 266px;
-    outline: 18px solid #00000082;
+    outline: 22px solid #00000082;
     position: absolute;
     left: 10%;
     top: 34%;
     background-color: #00000082;
+  }
+  .formBlock h3 {
+    font-size: 16px;
   }
   .filterSearchBtn {
     padding: 14px 72px;
@@ -429,7 +432,7 @@ footer {
     padding: 0px 0px 10px 0px;
     text-align: center;
     margin-top: -5px;
-    font-size: 21px;
+    font-size: 19px;
   }
 }
 
@@ -757,6 +760,12 @@ footer {
     left: 9%;
     top: 41%;
     background-color: #00000082;
+  }
+  .formBlock h3 {
+    padding: 0px 0px 10px 0px;
+    text-align: center;
+    margin-top: -5px;
+    font-size: 22px;
   }
   #navBarUl .navBarLi {
     border: 1px solid #000;
